@@ -1,0 +1,545 @@
+CRACK SUCCESSFUL OUTPUT
+
+run:
+currentKey:8080803e80808001
+Consumed CPU time=0.015625
+currentKey:8080803e803d04c1
+Consumed CPU time=21.765625
+currentKey:8080803e807a8901
+Consumed CPU time=42.890625
+currentKey:8080803e01370dc1
+Consumed CPU time=64.375000
+currentKey:8080803e01f49201
+Consumed CPU time=85.406250
+currentKey:8080803e023116c1
+Consumed CPU time=106.046875
+currentKey:8080803e026e9b01
+Consumed CPU time=127.250000
+currentKey:8080803e83ab1fc1
+Consumed CPU time=147.671875
+currentKey:8080803e8368a401
+Consumed CPU time=168.578125
+currentKey:8080803e0425a8c1
+Consumed CPU time=189.781250
+currentKey:8080803e0462ad01
+Consumed CPU time=210.406250
+currentKey:8080803e851f31c1
+Consumed CPU time=230.437500
+currentKey:8080803e85dcb601
+Consumed CPU time=254.062500
+currentKey:8080803e8619bac1
+Consumed CPU time=276.875000
+currentKey:8080803e86d6bf01
+Consumed CPU time=296.921875
+currentKey:8080803e071343c1
+Consumed CPU time=318.156250
+currentKey:8080803e07d0c801
+Consumed CPU time=338.093750
+currentKey:8080803e080d4cc1
+Consumed CPU time=359.750000
+currentKey:8080803e084a5101
+Consumed CPU time=381.265625
+currentKey:8080803e8907d5c1
+Consumed CPU time=401.093750
+currentKey:8080803e89c4da01
+Consumed CPU time=422.218750
+currentKey:8080803e8a015ec1
+Consumed CPU time=445.250000
+currentKey:8080803e8a3ee301
+Consumed CPU time=466.031250
+currentKey:8080803e8afb67c1
+Consumed CPU time=489.265625
+currentKey:8080803e0b38ec01
+Consumed CPU time=510.453125
+currentKey:8080803e0b7570c1
+Consumed CPU time=530.515625
+currentKey:8080803e8c327501
+Consumed CPU time=552.140625
+currentKey:8080803e8cef79c1
+Consumed CPU time=573.203125
+currentKey:8080803e0d2cfe01
+Consumed CPU time=593.875000
+currentKey:8080803e0dea02c1
+Consumed CPU time=614.359375
+currentKey:8080803e0ea70701
+Consumed CPU time=639.296875
+currentKey:8080803e0e640bc1
+Consumed CPU time=660.171875
+currentKey:8080803e8fa11001
+Consumed CPU time=677.640625
+currentKey:8080803e8f5e94c1
+Consumed CPU time=694.875000
+currentKey:8080803e109b1901
+Consumed CPU time=711.984375
+currentKey:8080803e10589dc1
+Consumed CPU time=733.531250
+currentKey:8080803e9115a201
+Consumed CPU time=757.281250
+currentKey:8080803e915226c1
+Consumed CPU time=781.046875
+currentKey:8080803e928fab01
+Consumed CPU time=802.140625
+currentKey:8080803e924c2fc1
+Consumed CPU time=823.875000
+currentKey:8080803e13893401
+Consumed CPU time=844.203125
+currentKey:8080803e134638c1
+Consumed CPU time=865.328125
+currentKey:8080803e94833d01
+Consumed CPU time=885.390625
+currentKey:8080803e9440c1c1
+Consumed CPU time=904.375000
+currentKey:8080803e94fd4601
+Consumed CPU time=925.218750
+currentKey:8080803e15ba4ac1
+Consumed CPU time=944.984375
+currentKey:8080803e15f74f01
+Consumed CPU time=964.546875
+currentKey:8080803e1634d3c1
+Consumed CPU time=984.531250
+currentKey:8080803e16f15801
+Consumed CPU time=1005.734375
+currentKey:8080803e97aedcc1
+Consumed CPU time=1026.156250
+currentKey:8080803e976b6101
+Consumed CPU time=1045.906250
+currentKey:8080803e98a8e5c1
+Consumed CPU time=1066.312500
+currentKey:8080803e98e5ea01
+Consumed CPU time=1086.078125
+currentKey:8080803e19a26ec1
+Consumed CPU time=1106.328125
+currentKey:8080803e19df7301
+Consumed CPU time=1126.843750
+currentKey:8080803e1a1cf7c1
+Consumed CPU time=1145.359375
+currentKey:8080803e1ad97c01
+Consumed CPU time=1163.296875
+currentKey:8080803e9b9780c1
+Consumed CPU time=1180.046875
+currentKey:8080803e9b548501
+Consumed CPU time=1196.500000
+currentKey:8080803e1c9189c1
+Consumed CPU time=1212.453125
+currentKey:8080803e1cce0e01
+Consumed CPU time=1228.703125
+currentKey:8080803e9d0b92c1
+Consumed CPU time=1245.328125
+currentKey:8080803e9dc89701
+Consumed CPU time=1261.687500
+currentKey:8080803e9e859bc1
+Consumed CPU time=1277.765625
+currentKey:8080803e9ec22001
+Consumed CPU time=1293.875000
+currentKey:8080803e9e7fa4c1
+Consumed CPU time=1310.671875
+currentKey:8080803e1fbc2901
+Consumed CPU time=1327.000000
+currentKey:8080803e1f79adc1
+Consumed CPU time=1343.156250
+currentKey:8080803e20b63201
+Consumed CPU time=1359.156250
+currentKey:8080803e2073b6c1
+Consumed CPU time=1376.031250
+currentKey:8080803ea1b03b01
+Consumed CPU time=1392.015625
+currentKey:8080803ea16dbfc1
+Consumed CPU time=1408.109375
+currentKey:8080803ea22ac401
+Consumed CPU time=1424.109375
+currentKey:8080803ea267c8c1
+Consumed CPU time=1443.562500
+currentKey:8080803e23a4cd01
+Consumed CPU time=1459.875000
+currentKey:8080803e236151c1
+Consumed CPU time=1475.859375
+currentKey:8080803ea49ed601
+Consumed CPU time=1491.906250
+currentKey:8080803ea45bdac1
+Consumed CPU time=1508.796875
+currentKey:8080803e2598df01
+Consumed CPU time=1524.906250
+currentKey:8080803e25d5e3c1
+Consumed CPU time=1541.062500
+currentKey:8080803e26926801
+Consumed CPU time=1557.093750
+currentKey:8080803e264fecc1
+Consumed CPU time=1574.218750
+currentKey:8080803ea78cf101
+Consumed CPU time=1590.359375
+currentKey:8080803ea74975c1
+Consumed CPU time=1606.437500
+currentKey:8080803ea8867a01
+Consumed CPU time=1622.562500
+currentKey:8080803ea843fec1
+Consumed CPU time=1639.343750
+currentKey:8080803e29018301
+Consumed CPU time=1655.281250
+currentKey:8080803e293e07c1
+Consumed CPU time=1672.015625
+currentKey:8080803e29fb8c01
+Consumed CPU time=1688.093750
+currentKey:8080803e2a3810c1
+Consumed CPU time=1705.312500
+currentKey:8080803e2a751501
+Consumed CPU time=1721.281250
+currentKey:8080803eab3219c1
+Consumed CPU time=1737.250000
+currentKey:8080803eabef9e01
+Consumed CPU time=1753.265625
+currentKey:8080803e2c2ca2c1
+Consumed CPU time=1770.234375
+currentKey:8080803e2ce9a701
+Consumed CPU time=1786.250000
+currentKey:8080803ead26abc1
+Consumed CPU time=1802.265625
+currentKey:8080803eade3b001
+Consumed CPU time=1818.562500
+currentKey:8080803eae2034c1
+Consumed CPU time=1835.437500
+currentKey:8080803eae5db901
+Consumed CPU time=1851.562500
+currentKey:8080803e2f1a3dc1
+Consumed CPU time=1867.703125
+currentKey:8080803e2f57c201
+Consumed CPU time=1883.859375
+currentKey:8080803eb09446c1
+Consumed CPU time=1900.859375
+currentKey:8080803eb051cb01
+Consumed CPU time=1916.843750
+currentKey:8080803e310e4fc1
+Consumed CPU time=1932.953125
+currentKey:8080803e31cb5401
+Consumed CPU time=1949.046875
+currentKey:8080803e320858c1
+Consumed CPU time=1965.781250
+currentKey:8080803e32455d01
+Consumed CPU time=1982.062500
+currentKey:8080803eb30261c1
+Consumed CPU time=1998.171875
+currentKey:8080803eb3bfe601
+Consumed CPU time=2014.296875
+currentKey:8080803eb37ceac1
+Consumed CPU time=2030.984375
+currentKey:8080803e34b9ef01
+Consumed CPU time=2047.093750
+currentKey:8080803e347673c1
+Consumed CPU time=2063.281250
+currentKey:8080803eb5b3f801
+Consumed CPU time=2079.296875
+currentKey:8080803eb5707cc1
+Consumed CPU time=2096.406250
+currentKey:8080803eb6ae0101
+Consumed CPU time=2112.625000
+currentKey:8080803eb66b85c1
+Consumed CPU time=2128.843750
+currentKey:8080803e37a88a01
+Consumed CPU time=2144.875000
+currentKey:8080803e37e50ec1
+Consumed CPU time=2161.890625
+currentKey:8080803e38a21301
+Consumed CPU time=2178.062500
+currentKey:8080803e38df97c1
+Consumed CPU time=2193.968750
+currentKey:8080803eb91c1c01
+Consumed CPU time=2210.140625
+currentKey:8080803eb9d920c1
+Consumed CPU time=2226.921875
+currentKey:8080803eba162501
+Consumed CPU time=2242.953125
+currentKey:8080803ebad329c1
+Consumed CPU time=2258.843750
+currentKey:8080803e3b10ae01
+Consumed CPU time=2275.046875
+currentKey:8080803e3bcd32c1
+Consumed CPU time=2291.718750
+currentKey:8080803ebc8a3701
+Consumed CPU time=2307.937500
+currentKey:8080803ebcc73bc1
+Consumed CPU time=2324.000000
+currentKey:8080803e3d044001
+Consumed CPU time=2340.281250
+currentKey:8080803e3dc1c4c1
+Consumed CPU time=2356.875000
+currentKey:8080803e3dfe4901
+Consumed CPU time=2373.109375
+currentKey:8080803e3e3bcdc1
+Consumed CPU time=2389.218750
+currentKey:8080803e3ef85201
+Consumed CPU time=2405.781250
+currentKey:8080803ebfb5d6c1
+Consumed CPU time=2422.125000
+currentKey:8080803ebff25b01
+Consumed CPU time=2438.078125
+currentKey:8080803e402fdfc1
+Consumed CPU time=2454.203125
+currentKey:8080803e40ec6401
+Consumed CPU time=2470.453125
+currentKey:8080803ec12968c1
+Consumed CPU time=2487.125000
+currentKey:8080803ec1e66d01
+Consumed CPU time=2503.187500
+currentKey:8080803ec223f1c1
+Consumed CPU time=2520.046875
+currentKey:8080803ec2e07601
+Consumed CPU time=2538.328125
+currentKey:8080803e439d7ac1
+Consumed CPU time=2554.671875
+currentKey:8080803e43da7f01
+Consumed CPU time=2580.734375
+currentKey:8080803ec49883c1
+Consumed CPU time=2603.968750
+currentKey:8080803ec4d50801
+Consumed CPU time=2622.578125
+currentKey:8080803e45928cc1
+Consumed CPU time=2638.921875
+currentKey:8080803e454f9101
+Consumed CPU time=2655.437500
+currentKey:8080803e468c15c1
+Consumed CPU time=2672.562500
+currentKey:8080803e46491a01
+Consumed CPU time=2688.968750
+currentKey:8080803ec7869ec1
+Consumed CPU time=2705.093750
+currentKey:8080803ec7432301
+Consumed CPU time=2721.609375
+currentKey:8080803ec880a7c1
+Consumed CPU time=2738.125000
+currentKey:8080803ec83d2c01
+Consumed CPU time=2754.109375
+currentKey:8080803ec87ab0c1
+Consumed CPU time=2770.125000
+currentKey:8080803e4937b501
+Consumed CPU time=2786.687500
+currentKey:8080803e49f4b9c1
+Consumed CPU time=2802.796875
+currentKey:8080803e4a313e01
+Consumed CPU time=2818.859375
+currentKey:8080803e4a6ec2c1
+Consumed CPU time=2834.968750
+currentKey:8080803ecbabc701
+Consumed CPU time=2851.812500
+currentKey:8080803ecb68cbc1
+Consumed CPU time=2868.671875
+currentKey:8080803e4c25d001
+Consumed CPU time=2886.828125
+currentKey:8080803e4c6254c1
+Consumed CPU time=2905.437500
+currentKey:8080803ecd1fd901
+Consumed CPU time=2925.218750
+currentKey:8080803ecddc5dc1
+Consumed CPU time=2942.250000
+currentKey:8080803ece196201
+Consumed CPU time=2958.390625
+currentKey:8080803eced6e6c1
+Consumed CPU time=2974.359375
+currentKey:8080803e4f136b01
+Consumed CPU time=2991.218750
+currentKey:8080803e4fd0efc1
+Consumed CPU time=3007.203125
+currentKey:8080803ed00df401
+Consumed CPU time=3023.296875
+currentKey:8080803ed04af8c1
+Consumed CPU time=3040.078125
+currentKey:8080803e5107fd01
+Consumed CPU time=3058.171875
+currentKey:8080803e514501c1
+Consumed CPU time=3075.234375
+currentKey:8080803e52028601
+Consumed CPU time=3091.640625
+currentKey:8080803e52bf8ac1
+Consumed CPU time=3108.375000
+currentKey:8080803e527c8f01
+Consumed CPU time=3124.765625
+currentKey:8080803ed3b913c1
+Consumed CPU time=3140.796875
+currentKey:8080803ed3769801
+Consumed CPU time=3156.765625
+currentKey:8080803e54b31cc1
+Consumed CPU time=3173.562500
+currentKey:8080803e5470a101
+Consumed CPU time=3189.656250
+currentKey:8080803ed5ad25c1
+Consumed CPU time=3205.593750
+currentKey:8080803ed5ea2a01
+Consumed CPU time=3222.203125
+currentKey:8080803ed6a7aec1
+Consumed CPU time=3239.203125
+currentKey:8080803ed664b301
+Consumed CPU time=3255.296875
+currentKey:8080803e57a137c1
+Consumed CPU time=3271.453125
+currentKey:8080803e575ebc01
+Consumed CPU time=3287.468750
+currentKey:8080803e589b40c1
+Consumed CPU time=3304.421875
+currentKey:8080803e58584501
+Consumed CPU time=3320.500000
+currentKey:8080803ed91549c1
+Consumed CPU time=3336.593750
+currentKey:8080803ed952ce01
+Consumed CPU time=3352.656250
+currentKey:8080803eda8f52c1
+Consumed CPU time=3369.296875
+currentKey:8080803eda4c5701
+Consumed CPU time=3385.265625
+currentKey:8080803e5b895bc1
+Consumed CPU time=3401.453125
+currentKey:8080803e5b46e001
+Consumed CPU time=3417.343750
+currentKey:8080803edc8364c1
+Consumed CPU time=3434.187500
+currentKey:8080803edc40e901
+Consumed CPU time=3450.375000
+currentKey:8080803edcfd6dc1
+Consumed CPU time=3466.734375
+currentKey:8080803e5dbaf201
+Consumed CPU time=3482.734375
+currentKey:8080803e5df776c1
+Consumed CPU time=3499.515625
+currentKey:8080803e5e34fb01
+Consumed CPU time=3515.593750
+currentKey:8080803e5ef17fc1
+Consumed CPU time=3531.687500
+currentKey:8080803edf2f0401
+Consumed CPU time=3547.671875
+currentKey:8080803edfec08c1
+Consumed CPU time=3564.562500
+currentKey:8080803ee0290d01
+Consumed CPU time=3580.453125
+currentKey:8080803ee0e691c1
+Consumed CPU time=3596.328125
+currentKey:8080803e61231601
+Consumed CPU time=3612.140625
+currentKey:8080803e61e01ac1
+Consumed CPU time=3628.953125
+currentKey:8080803e629d1f01
+Consumed CPU time=3645.125000
+currentKey:8080803e62da23c1
+Consumed CPU time=3661.687500
+currentKey:8080803ee397a801
+Consumed CPU time=3677.625000
+currentKey:8080803ee3542cc1
+Consumed CPU time=3694.500000
+currentKey:8080803e64913101
+Consumed CPU time=3710.546875
+currentKey:8080803e64ceb5c1
+Consumed CPU time=3726.546875
+currentKey:8080803ee50bba01
+Consumed CPU time=3742.562500
+currentKey:8080803ee5c83ec1
+Consumed CPU time=3759.328125
+currentKey:8080803ee6854301
+Consumed CPU time=3775.640625
+currentKey:8080803ee6c2c7c1
+Consumed CPU time=3791.593750
+currentKey:8080803ee67f4c01
+Consumed CPU time=3807.750000
+currentKey:8080803e67bcd0c1
+Consumed CPU time=3824.546875
+currentKey:8080803e6779d501
+Consumed CPU time=3840.625000
+currentKey:8080803e68b6d9c1
+Consumed CPU time=3856.656250
+currentKey:8080803e68735e01
+Consumed CPU time=3872.593750
+currentKey:8080803ee9b062c1
+Consumed CPU time=3889.671875
+currentKey:8080803ee96d6701
+Consumed CPU time=3905.656250
+currentKey:8080803eea2a6bc1
+Consumed CPU time=3921.593750
+currentKey:8080803eea677001
+Consumed CPU time=3937.531250
+currentKey:8080803e6ba4f4c1
+Consumed CPU time=3954.453125
+currentKey:8080803e6b617901
+Consumed CPU time=3970.375000
+currentKey:8080803eec9efdc1
+Consumed CPU time=3986.296875
+currentKey:8080803eecdc0201
+Consumed CPU time=4002.312500
+currentKey:8080803e6d1986c1
+Consumed CPU time=4019.140625
+currentKey:8080803e6dd60b01
+Consumed CPU time=4035.109375
+currentKey:8080803e6e138fc1
+Consumed CPU time=4051.078125
+currentKey:8080803e6ed09401
+Consumed CPU time=4067.093750
+currentKey:8080803eef0d98c1
+Consumed CPU time=4084.125000
+currentKey:8080803eef4a9d01
+Consumed CPU time=4100.125000
+currentKey:8080803e7007a1c1
+Consumed CPU time=4116.046875
+currentKey:8080803e70c42601
+Consumed CPU time=4132.078125
+currentKey:8080803ef1012ac1
+Consumed CPU time=4148.921875
+currentKey:8080803ef13e2f01
+Consumed CPU time=4164.906250
+currentKey:8080803ef1fbb3c1
+Consumed CPU time=4180.875000
+currentKey:8080803ef2383801
+Consumed CPU time=4196.781250
+currentKey:8080803ef275bcc1
+Consumed CPU time=4213.796875
+currentKey:8080803e7332c101
+Consumed CPU time=4229.781250
+currentKey:8080803e73ef45c1
+Consumed CPU time=4246.328125
+currentKey:8080803ef42c4a01
+Consumed CPU time=4262.359375
+currentKey:8080803ef4e9cec1
+Consumed CPU time=4279.296875
+currentKey:8080803e7526d301
+Consumed CPU time=4295.187500
+currentKey:8080803e75e357c1
+Consumed CPU time=4311.156250
+currentKey:8080803e7620dc01
+Consumed CPU time=4327.031250
+currentKey:8080803e765de0c1
+Consumed CPU time=4345.437500
+currentKey:8080803ef71ae501
+Consumed CPU time=4362.062500
+currentKey:8080803ef757e9c1
+Consumed CPU time=4378.046875
+currentKey:8080803ef8946e01
+Consumed CPU time=4394.531250
+currentKey:8080803ef851f2c1
+Consumed CPU time=4411.906250
+currentKey:8080803e790ef701
+Consumed CPU time=4428.109375
+currentKey:8080803e79cbfbc1
+Consumed CPU time=4444.109375
+currentKey:8080803e7a898001
+Consumed CPU time=4460.218750
+currentKey:8080803e7a4604c1
+Consumed CPU time=4477.015625
+currentKey:8080803efb838901
+Consumed CPU time=4493.109375
+currentKey:8080803efb400dc1
+Consumed CPU time=4509.125000
+currentKey:8080803efbfd9201
+Consumed CPU time=4525.640625
+currentKey:8080803e7cba16c1
+Consumed CPU time=4542.281250
+currentKey:8080803e7cf79b01
+Consumed CPU time=4558.234375
+currentKey:8080803efd341fc1
+Consumed CPU time=4574.234375
+currentKey:8080803efdf1a401
+Consumed CPU time=4590.781250
+currentKey:8080803efeaea8c1
+Consumed CPU time=4607.359375
+currentKey:8080803efe6bad01
+Consumed CPU time=4623.281250
+currentKey:8080803e7fa831c1
+Consumed CPU time=4639.281250
+currentKey:8080803e7fe5b601
+Consumed CPU time=4655.781250
+Key not found within key space area:
+lower key: 8080803E80808080/n upper key: 8080803E7F7F7F7F
+Consumed CPU time=4663.093750
+BUILD SUCCESSFUL (total time: 79 minutes 41 seconds)

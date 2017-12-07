@@ -1,0 +1,282 @@
+Fails the test on input: enum_key, 924980e35d518937, 924980e35d518938
+Fails the test on input: enum_key, 8a52a75113a74f6d, 8a52a75113a74f6e
+Fails the test on input: enum_key, 7afbc1dfa76731df, 7afbc1dfa76731e0
+Fails the test on input: enum_key, ab0b91757ca2cef7, ab0b91757ca2cef8
+Fails the test on input: enum_key, c7d59ba48045ae70, c7d59ba48045aef1
+Fails the test on input: enum_key, 384c640e0837f85b, 384c640e0837f8dc
+Fails the test on input: enum_key, 767ca45d0deac1f7, 767ca45d0deac1f8
+Fails the test on input: enum_key, 5bfeeab3a7a8f268, 5bfeeab3a7a8f2e9
+Fails the test on input: enum_key, 0bd99220a2982aa7, 0bd99220a2982aa8
+Traceback (most recent call last):
+  File "verifyTask2.py", line 84, in <module>
+    verify_batch(sys.argv[1])
+  File "verifyTask2.py", line 76, in verify_batch
+    verify('enum_key', input, expect, language)
+  File "verifyTask2.py", line 28, in verify
+    raise Exception('\nOutput: %s\nError:%s' % (language, output, error))
+UnboundLocalError: local variable 'output' referenced before assignment
+
+C:\Users\Daniel Rozen\SkyDrive\Info Security\Projects\Project3-Student\netbeans\Info-Security-Project-3-Java\src>javac des.java task2.java
+
+C:\Users\Daniel Rozen\SkyDrive\Info Security\Projects\Project3-Student\netbeans\Info-Security-Project-3-Java\src>python verifyTask2.py java
+Notice: If you use Java or C++, compile them before you run this verifier.
+Fails the test on input: enum_key, eaab15fbe51a26fe, eaab15fbe51a267f
+Fails the test on input: enum_key, b9d354baaeec8507, b9d354baaeec8508
+Fails the test on input: enum_key, b69efba40bd07ad3, b69efba40bd07a54
+Fails the test on input: enum_key, 924980e35d518937, 924980e35d518938
+Fails the test on input: enum_key, 8a52a75113a74f6d, 8a52a75113a74f6e
+Fails the test on input: enum_key, 7afbc1dfa76731df, 7afbc1dfa76731e0
+Fails the test on input: enum_key, ab0b91757ca2cef7, ab0b91757ca2cef8
+Fails the test on input: enum_key, c7d59ba48045ae70, c7d59ba48045aef1
+Fails the test on input: enum_key, 384c640e0837f85b, 384c640e0837f8dc
+Fails the test on input: enum_key, 767ca45d0deac1f7, 767ca45d0deac1f8
+Fails the test on input: enum_key, 5bfeeab3a7a8f268, 5bfeeab3a7a8f2e9
+Fails the test on input: enum_key, 0bd99220a2982aa7, 0bd99220a2982aa8
+Fails the test on input: enum_key, 3d9d022aa18afd85, 3d9d022aa18afd86
+Fails the test on input: enum_key, 86c86d9e073e1a62, 86c86d9e073e1ae3
+Fails the test on input: enum_key, b56dd02afb51c7e3, b56dd02afb51c764
+Fails the test on input: enum_key, c75e19d9e902dc1a, c75e19d9e902dc9b
+Fails the test on input: enum_key, 5194e3f1370d8583, 5194e3f1370d8504
+Fails the test on input: enum_key, cebf753bd3983780, cebf753bd3983701
+Fails the test on input: enum_key, 67045107ec32f1ce, 67045107ec32f14f
+Fails the test on input: enum_key, 29cd981f267cec07, 29cd981f267cec08
+Fails the test on input: enum_key, 0b85f49d7591f4d9, 0b85f49d7591f4da
+Fails the test on input: enum_key, 6d672fad5dd96da1, 6d672fad5dd96da2
+Fails the test on input: enum_key, 5285e045a792fb85, 5285e045a792fb86
+Fails the test on input: enum_key, dc73f8cd9d62c8c8, dc73f8cd9d62c849
+Fails the test on input: enum_key, b5df9ea1fead26c1, b5df9ea1fead26c2
+Fails the test on input: enum_key, 430dcd94f76832bf, 430dcd94f7683240
+Traceback (most recent call last):
+  File "verifyTask2.py", line 84, in <module>
+    verify_batch(sys.argv[1])
+  File "verifyTask2.py", line 76, in verify_batch
+    verify('enum_key', input, expect, language)
+  File "verifyTask2.py", line 28, in verify
+    raise Exception('\nOutput: %s\nError:%s' % (language, output, error))
+UnboundLocalError: local variable 'output' referenced before assignment
+
+C:\Users\Daniel Rozen\SkyDrive\Info Security\Projects\Project3-Student\netbeans\Info-Security-Project-3-Java\src>javac task2.py
+error: Class names, 'task2.py', are only accepted if annotation processing is explicitly requested
+1 error
+
+C:\Users\Daniel Rozen\SkyDrive\Info Security\Projects\Project3-Student\netbeans\Info-Security-Project-3-Java\src>javac task2.java
+
+C:\Users\Daniel Rozen\SkyDrive\Info Security\Projects\Project3-Student\netbeans\Info-Security-Project-3-Java\src>python verifyTask2.py java
+Notice: If you use Java or C++, compile them before you run this verifier.
+Fails the test on input: enum_key, eaab15fbe51a26fe, eaab15fbe51a267f
+Fails the test on input: enum_key, b9d354baaeec8507, b9d354baaeec8508
+Fails the test on input: enum_key, b69efba40bd07ad3, b69efba40bd07a54
+Fails the test on input: enum_key, 924980e35d518937, 924980e35d518938
+Fails the test on input: enum_key, 8a52a75113a74f6d, 8a52a75113a74f6e
+Fails the test on input: enum_key, 7afbc1dfa76731df, 7afbc1dfa76731e0
+Fails the test on input: enum_key, ab0b91757ca2cef7, ab0b91757ca2cef8
+Fails the test on input: enum_key, c7d59ba48045ae70, c7d59ba48045aef1
+Fails the test on input: enum_key, 384c640e0837f85b, 384c640e0837f8dc
+Fails the test on input: enum_key, 767ca45d0deac1f7, 767ca45d0deac1f8
+Fails the test on input: enum_key, 5bfeeab3a7a8f268, 5bfeeab3a7a8f2e9
+Fails the test on input: enum_key, 0bd99220a2982aa7, 0bd99220a2982aa8
+Fails the test on input: enum_key, 3d9d022aa18afd85, 3d9d022aa18afd86
+Fails the test on input: enum_key, 86c86d9e073e1a62, 86c86d9e073e1ae3
+Fails the test on input: enum_key, b56dd02afb51c7e3, b56dd02afb51c764
+Fails the test on input: enum_key, c75e19d9e902dc1a, c75e19d9e902dc9b
+Fails the test on input: enum_key, 5194e3f1370d8583, 5194e3f1370d8504
+Fails the test on input: enum_key, cebf753bd3983780, cebf753bd3983701
+Fails the test on input: enum_key, 67045107ec32f1ce, 67045107ec32f14f
+Fails the test on input: enum_key, 29cd981f267cec07, 29cd981f267cec08
+Fails the test on input: enum_key, 0b85f49d7591f4d9, 0b85f49d7591f4da
+Fails the test on input: enum_key, 6d672fad5dd96da1, 6d672fad5dd96da2
+Fails the test on input: enum_key, 5285e045a792fb85, 5285e045a792fb86
+Fails the test on input: enum_key, dc73f8cd9d62c8c8, dc73f8cd9d62c849
+Fails the test on input: enum_key, b5df9ea1fead26c1, b5df9ea1fead26c2
+Fails the test on input: enum_key, 430dcd94f76832bf, 430dcd94f7683240
+Fails the test on input: enum_key, 45a2c73e89434ad0, 45a2c73e89434a51
+Fails the test on input: enum_key, cb0107578a942ce0, cb0107578a942c61
+Fails the test on input: enum_key, 0449f4e923836b98, 0449f4e923836b19
+Fails the test on input: enum_key, d5ecd67ac7401ffe, d5ecd67ac7401f7f
+Fails the test on input: enum_key, 7334fd51ae6204b9, 7334fd51ae6204ba
+Fails the test on input: enum_key, 988386b9e6df3d57, 988386b9e6df3d58
+Fails the test on input: enum_key, 767ff18a7a13d392, 767ff18a7a13d313
+Fails the test on input: enum_key, 925845f7f80beab6, 925845f7f80bea37
+Fails the test on input: enum_key, 3867ab6719e60de9, 3867ab6719e60dea
+Fails the test on input: enum_key, 3e4fb32cfb755829, 3e4fb32cfb75582a
+Fails the test on input: enum_key, 016ddc08eaadb646, 016ddc08eaadb6c7
+Fails the test on input: enum_key, c851e683f1859d31, c851e683f1859d32
+Fails the test on input: enum_key, 156246f20d3b19bf, 156246f20d3b1940
+Fails the test on input: enum_key, a8d6b6948cfb98f7, a8d6b6948cfb98f8
+Fails the test on input: enum_key, 98d0ecc4ab58f7bc, 98d0ecc4ab58f73d
+Fails the test on input: enum_key, 8a0decce9e3eefb6, 8a0decce9e3eef37
+Fails the test on input: enum_key, 0e7a8f51940ebf40, 0e7a8f51940ebfc1
+Fails the test on input: enum_key, 865e9b64767ffe73, 865e9b64767ffef4
+Fails the test on input: enum_key, 13730837e55e2551, 13730837e55e2552
+Fails the test on input: enum_key, 3ead6e8c89ade6a7, 3ead6e8c89ade6a8
+Fails the test on input: enum_key, f2761c401638d662, f2761c401638d6e3
+Fails the test on input: enum_key, e0a2e685dc6dc732, e0a2e685dc6dc7b3
+Fails the test on input: enum_key, 70833498d59dd9ae, 70833498d59dd92f
+Traceback (most recent call last):
+  File "verifyTask2.py", line 84, in <module>
+    verify_batch(sys.argv[1])
+  File "verifyTask2.py", line 76, in verify_batch
+    verify('enum_key', input, expect, language)
+  File "verifyTask2.py", line 28, in verify
+    raise Exception('\nOutput: %s\nError:%s' % (language, output, error))
+UnboundLocalError: local variable 'output' referenced before assignment
+
+C:\Users\Daniel Rozen\SkyDrive\Info Security\Projects\Project3-Student\netbeans\Info-Security-Project-3-Java\src>python verify.py java
+Notice: If you use Java or C++, compile them before you run this verifier.
+Fails the test on input: enum_key, 8080808080808080, 8080808080808001
+Fails the test on input: enum_key, 808080808080807f, 8080808080800180
+Fails the test on input: enum_key, 8080808080801f80, 8080808080801f01
+Fails the test on input: enum_key, 8080808080801f7f, 8080808080802080
+Fails the test on input: enum_key, 808080808080b05e, 808080808080b0df
+Fails the test on input: enum_key, 8080808010101002, 8080808010101083
+
+C:\Users\Daniel Rozen\SkyDrive\Info Security\Projects\Project3-Student\netbeans\Info-Security-Project-3-Java\src>task2 "enum_key" "384c640e0837f85b"
+'task2' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Daniel Rozen\SkyDrive\Info Security\Projects\Project3-Student\netbeans\Info-Security-Project-3-Java\src>./task2 "enum_key" "384c640e0837f85b"
+'.' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Daniel Rozen\SkyDrive\Info Security\Projects\Project3-Student\netbeans\Info-Security-Project-3-Java\src>java task2 "enum_key" "384c640e0837f85b"
+
+C:\Users\Daniel Rozen\SkyDrive\Info Security\Projects\Project3-Student\netbeans\Info-Security-Project-3-Java\src>javac task2.java
+
+C:\Users\Daniel Rozen\SkyDrive\Info Security\Projects\Project3-Student\netbeans\Info-Security-Project-3-Java\src>java task2 "enum_key" "384c640e0837f85b"
+Compare binary value to comptuer binary value below:
+Inputted string:
+384c640e0837f85b
+currentBin before parity removal:
+0011100001001100011001000000111000001000001101111111100001011011
+64
+currentBin after parity removal:
+01110001001100110010000011100001000011011111110001011011
+length of currentBin7: 56
+bigInt: 31862888676064347
+nextB: 31862888676064348
+nextBin before parity addition:
+01110001001100110010000011100001000011011111110001011100
+length of nextBin: 56
+nextBin after parity restoration:
+0011100001001100011001000000111000001000001101111111100011011100
+length of nextBin: 64
+in hex:
+Inputted key:
+384c640e0837f85b
+Inputted key length: 16
+Final hex length: 16
+384c640e0837f8dc
+
+C:\Users\Daniel Rozen\SkyDrive\Info Security\Projects\Project3-Student\netbeans\Info-Security-Project-3-Java\src>javac task2.java
+
+C:\Users\Daniel Rozen\SkyDrive\Info Security\Projects\Project3-Student\netbeans\Info-Security-Project-3-Java\src>java task2 "enum_key" "384c640e0837f85b"
+
+C:\Users\Daniel Rozen\SkyDrive\Info Security\Projects\Project3-Student\netbeans\Info-Security-Project-3-Java\src>javac task2.java
+
+C:\Users\Daniel Rozen\SkyDrive\Info Security\Projects\Project3-Student\netbeans\Info-Security-Project-3-Java\src>java task2 "enum_key" "384c640e0837f85b"
+384c640e0837f8dc
+
+C:\Users\Daniel Rozen\SkyDrive\Info Security\Projects\Project3-Student\netbeans\Info-Security-Project-3-Java\src>python verifyTask2.py java
+Notice: If you use Java or C++, compile them before you run this verifier.
+Passes the test on input: enum_key, eaab15fbe51a26fe, eaab15fbe51a267f
+Passes the test on input: enum_key, b9d354baaeec8507, b9d354baaeec8508
+Passes the test on input: enum_key, b69efba40bd07ad3, b69efba40bd07a54
+Passes the test on input: enum_key, 924980e35d518937, 924980e35d518938
+Passes the test on input: enum_key, 8a52a75113a74f6d, 8a52a75113a74f6e
+Passes the test on input: enum_key, 7afbc1dfa76731df, 7afbc1dfa76731e0
+Passes the test on input: enum_key, ab0b91757ca2cef7, ab0b91757ca2cef8
+Passes the test on input: enum_key, c7d59ba48045ae70, c7d59ba48045aef1
+Passes the test on input: enum_key, 384c640e0837f85b, 384c640e0837f8dc
+Passes the test on input: enum_key, 767ca45d0deac1f7, 767ca45d0deac1f8
+Passes the test on input: enum_key, 5bfeeab3a7a8f268, 5bfeeab3a7a8f2e9
+Fails the test on input: enum_key, 0bd99220a2982aa7, 0bd99220a2982aa8
+Passes the test on input: enum_key, 3d9d022aa18afd85, 3d9d022aa18afd86
+Passes the test on input: enum_key, 86c86d9e073e1a62, 86c86d9e073e1ae3
+Passes the test on input: enum_key, b56dd02afb51c7e3, b56dd02afb51c764
+Passes the test on input: enum_key, c75e19d9e902dc1a, c75e19d9e902dc9b
+Passes the test on input: enum_key, 5194e3f1370d8583, 5194e3f1370d8504
+Passes the test on input: enum_key, cebf753bd3983780, cebf753bd3983701
+Passes the test on input: enum_key, 67045107ec32f1ce, 67045107ec32f14f
+Passes the test on input: enum_key, 29cd981f267cec07, 29cd981f267cec08
+Fails the test on input: enum_key, 0b85f49d7591f4d9, 0b85f49d7591f4da
+Passes the test on input: enum_key, 6d672fad5dd96da1, 6d672fad5dd96da2
+Passes the test on input: enum_key, 5285e045a792fb85, 5285e045a792fb86
+Passes the test on input: enum_key, dc73f8cd9d62c8c8, dc73f8cd9d62c849
+Passes the test on input: enum_key, b5df9ea1fead26c1, b5df9ea1fead26c2
+Passes the test on input: enum_key, 430dcd94f76832bf, 430dcd94f7683240
+Passes the test on input: enum_key, 45a2c73e89434ad0, 45a2c73e89434a51
+Passes the test on input: enum_key, cb0107578a942ce0, cb0107578a942c61
+Fails the test on input: enum_key, 0449f4e923836b98, 0449f4e923836b19
+Passes the test on input: enum_key, d5ecd67ac7401ffe, d5ecd67ac7401f7f
+Passes the test on input: enum_key, 7334fd51ae6204b9, 7334fd51ae6204ba
+Passes the test on input: enum_key, 988386b9e6df3d57, 988386b9e6df3d58
+Passes the test on input: enum_key, 767ff18a7a13d392, 767ff18a7a13d313
+Passes the test on input: enum_key, 925845f7f80beab6, 925845f7f80bea37
+Passes the test on input: enum_key, 3867ab6719e60de9, 3867ab6719e60dea
+Passes the test on input: enum_key, 3e4fb32cfb755829, 3e4fb32cfb75582a
+Fails the test on input: enum_key, 016ddc08eaadb646, 016ddc08eaadb6c7
+Passes the test on input: enum_key, c851e683f1859d31, c851e683f1859d32
+Passes the test on input: enum_key, 156246f20d3b19bf, 156246f20d3b1940
+Passes the test on input: enum_key, a8d6b6948cfb98f7, a8d6b6948cfb98f8
+Passes the test on input: enum_key, 98d0ecc4ab58f7bc, 98d0ecc4ab58f73d
+Passes the test on input: enum_key, 8a0decce9e3eefb6, 8a0decce9e3eef37
+Fails the test on input: enum_key, 0e7a8f51940ebf40, 0e7a8f51940ebfc1
+Passes the test on input: enum_key, 865e9b64767ffe73, 865e9b64767ffef4
+Passes the test on input: enum_key, 13730837e55e2551, 13730837e55e2552
+Passes the test on input: enum_key, 3ead6e8c89ade6a7, 3ead6e8c89ade6a8
+Passes the test on input: enum_key, f2761c401638d662, f2761c401638d6e3
+Passes the test on input: enum_key, e0a2e685dc6dc732, e0a2e685dc6dc7b3
+Passes the test on input: enum_key, 70833498d59dd9ae, 70833498d59dd92f
+Passes the test on input: enum_key, f86702bc04cdfe16, f86702bc04cdfe97
+Passes the test on input: enum_key, 3764a2324a9d2a31, 3764a2324a9d2a32
+Passes the test on input: enum_key, 43dfb51a67943eab, 43dfb51a67943e2c
+Passes the test on input: enum_key, fb7ff4ae437ad598, fb7ff4ae437ad519
+Passes the test on input: enum_key, a45ef2f83b970ead, a45ef2f83b970eae
+Passes the test on input: enum_key, 3db01c0838c71973, 3db01c0838c719f4
+Passes the test on input: enum_key, ae19fec4e9e620da, ae19fec4e9e6205b
+Passes the test on input: enum_key, a4049dd008b9e989, a4049dd008b9e98a
+Passes the test on input: enum_key, 68a8791310ab86ef, 68a8791310ab8670
+Passes the test on input: enum_key, 9e8a2fe5c49858f1, 9e8a2fe5c49858f2
+Passes the test on input: enum_key, ae3d5254942c31e9, ae3d5254942c31ea
+Passes the test on input: enum_key, bfaba716ecd675e0, bfaba716ecd67561
+Passes the test on input: enum_key, 7a9d571670d0b058, 7a9d571670d0b0d9
+Passes the test on input: enum_key, d3d5dc52c879a2ba, d3d5dc52c879a23b
+Passes the test on input: enum_key, ba58865829c80d49, ba58865829c80d4a
+Passes the test on input: enum_key, 3880bf76bf9404e5, 3880bf76bf9404e6
+Fails the test on input: enum_key, 0b544379ea023bad, 0b544379ea023bae
+Passes the test on input: enum_key, 9e3d45a70d2aa4dc, 9e3d45a70d2aa45d
+Passes the test on input: enum_key, 1a79ba57207f6498, 1a79ba57207f6419
+Passes the test on input: enum_key, 160432f1792f91ae, 160432f1792f912f
+Passes the test on input: enum_key, 20ea0102a107a13e, 20ea0102a107a1bf
+Passes the test on input: enum_key, cd4c52588a75daea, cd4c52588a75da6b
+Passes the test on input: enum_key, aeef75e0e568b68c, aeef75e0e568b60d
+Passes the test on input: enum_key, ec73f29257bcb6fb, ec73f29257bcb67c
+Passes the test on input: enum_key, 681f0e4ce9fee9a2, 681f0e4ce9fee923
+Passes the test on input: enum_key, e02a403b34c7ab2a, e02a403b34c7abab
+Passes the test on input: enum_key, 58f110ba573702dc, 58f110ba5737025d
+Passes the test on input: enum_key, 6bf2d69d54387037, 6bf2d69d54387038
+Passes the test on input: enum_key, 3ee561795ef7d5bf, 3ee561795ef7d540
+Passes the test on input: enum_key, 23730164011f32c1, 23730164011f32c2
+Passes the test on input: enum_key, 191a522f673d515e, 191a522f673d51df
+Passes the test on input: enum_key, 9b6e6ec170a70120, 9b6e6ec170a701a1
+Passes the test on input: enum_key, 702a19862619e9ce, 702a19862619e94f
+Passes the test on input: enum_key, b55854c792bf5258, b55854c792bf52d9
+Fails the test on input: enum_key, 0ed979f4c86b61a2, 0ed979f4c86b6123
+Passes the test on input: enum_key, 75ba29b93d8fcecd, 75ba29b93d8fcece
+Fails the test on input: enum_key, 0e1c6bd0d3cbd008, 0e1c6bd0d3cbd089
+Passes the test on input: enum_key, 67a8c134f249c25b, 67a8c134f249c2dc
+Passes the test on input: enum_key, 152908a76b19fecb, 152908a76b19fe4c
+Passes the test on input: enum_key, 2f3ecd25c81c160d, 2f3ecd25c81c160e
+Fails the test on input: enum_key, 0d49ce622c04e085, 0d49ce622c04e086
+Passes the test on input: enum_key, cdd01fe5a17c5d23, cdd01fe5a17c5da4
+Passes the test on input: enum_key, b0d5a413a45defcb, b0d5a413a45def4c
+Passes the test on input: enum_key, aba4a702ab7a0ef8, aba4a702ab7a0e79
+Passes the test on input: enum_key, 404fd9bf4a31fe25, 404fd9bf4a31fe26
+Passes the test on input: enum_key, d3f8cb07e6641ccd, d3f8cb07e6641cce
+Passes the test on input: enum_key, a40d40d94ad3ab83, a40d40d94ad3ab04
+Passes the test on input: enum_key, 9719bab3c47c9bcd, 9719bab3c47c9bce
+Fails the test on input: enum_key, 0880406d7a1cd346, 0880406d7a1cd3c7
+Passes the test on input: enum_key, a837ef2c4c8c23a2, a837ef2c4c8c2323
+Passes the test on input: enum_key, dcc1fd79a4f29102, dcc1fd79a4f29183
+
+C:\Users\Daniel Rozen\SkyDrive\Info Security\Projects\Project3-Student\netbeans\Info-Security-Project-3-Java\src>

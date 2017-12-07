@@ -1,0 +1,387 @@
+CRACK OUTPUT
+
+run:
+currentKey.getBytes():8080803e80808001
+Consumed CPU time=0.062500
+currentKey.getBytes():8080803e803d04c1
+Consumed CPU time=18.328125
+currentKey.getBytes():8080803e807a8901
+Consumed CPU time=36.828125
+currentKey.getBytes():8080803e01370dc1
+Consumed CPU time=55.968750
+currentKey.getBytes():8080803e01f49201
+Consumed CPU time=76.562500
+currentKey.getBytes():8080803e023116c1
+Consumed CPU time=96.359375
+currentKey.getBytes():8080803e026e9b01
+Consumed CPU time=114.078125
+currentKey.getBytes():8080803e83ab1fc1
+Consumed CPU time=133.203125
+currentKey.getBytes():8080803e8368a401
+Consumed CPU time=156.453125
+currentKey.getBytes():8080803e0425a8c1
+Consumed CPU time=176.406250
+currentKey.getBytes():8080803e0462ad01
+Consumed CPU time=195.515625
+currentKey.getBytes():8080803e851f31c1
+Consumed CPU time=215.093750
+currentKey.getBytes():8080803e85dcb601
+Consumed CPU time=233.718750
+currentKey.getBytes():8080803e8619bac1
+Consumed CPU time=251.406250
+currentKey.getBytes():8080803e86d6bf01
+Consumed CPU time=268.953125
+currentKey.getBytes():8080803e071343c1
+Consumed CPU time=287.500000
+currentKey.getBytes():8080803e07d0c801
+Consumed CPU time=305.687500
+currentKey.getBytes():8080803e080d4cc1
+Consumed CPU time=323.421875
+currentKey.getBytes():8080803e084a5101
+Consumed CPU time=341.296875
+currentKey.getBytes():8080803e8907d5c1
+Consumed CPU time=359.906250
+currentKey.getBytes():8080803e89c4da01
+Consumed CPU time=378.375000
+currentKey.getBytes():8080803e8a015ec1
+Consumed CPU time=396.234375
+currentKey.getBytes():8080803e8a3ee301
+Consumed CPU time=414.531250
+currentKey.getBytes():8080803e8afb67c1
+Consumed CPU time=432.906250
+currentKey.getBytes():8080803e0b38ec01
+Consumed CPU time=454.984375
+currentKey.getBytes():8080803e0b7570c1
+Consumed CPU time=477.390625
+currentKey.getBytes():8080803e8c327501
+Consumed CPU time=498.609375
+currentKey.getBytes():8080803e8cef79c1
+Consumed CPU time=516.062500
+currentKey.getBytes():8080803e0d2cfe01
+Consumed CPU time=532.984375
+currentKey.getBytes():8080803e0dea02c1
+Consumed CPU time=549.093750
+currentKey.getBytes():8080803e0ea70701
+Consumed CPU time=565.109375
+currentKey.getBytes():8080803e0e640bc1
+Consumed CPU time=580.953125
+currentKey.getBytes():8080803e8fa11001
+Consumed CPU time=597.812500
+currentKey.getBytes():8080803e8f5e94c1
+Consumed CPU time=613.781250
+currentKey.getBytes():8080803e109b1901
+Consumed CPU time=629.843750
+currentKey.getBytes():8080803e10589dc1
+Consumed CPU time=645.843750
+currentKey.getBytes():8080803e9115a201
+Consumed CPU time=662.671875
+currentKey.getBytes():8080803e915226c1
+Consumed CPU time=678.609375
+currentKey.getBytes():8080803e928fab01
+Consumed CPU time=694.656250
+currentKey.getBytes():8080803e924c2fc1
+Consumed CPU time=711.093750
+currentKey.getBytes():8080803e13893401
+Consumed CPU time=727.890625
+currentKey.getBytes():8080803e134638c1
+Consumed CPU time=743.921875
+currentKey.getBytes():8080803e94833d01
+Consumed CPU time=759.968750
+currentKey.getBytes():8080803e9440c1c1
+Consumed CPU time=776.171875
+currentKey.getBytes():8080803e94fd4601
+Consumed CPU time=792.859375
+currentKey.getBytes():8080803e15ba4ac1
+Consumed CPU time=808.750000
+currentKey.getBytes():8080803e15f74f01
+Consumed CPU time=824.890625
+currentKey.getBytes():8080803e1634d3c1
+Consumed CPU time=841.796875
+currentKey.getBytes():8080803e16f15801
+Consumed CPU time=858.687500
+currentKey.getBytes():8080803e97aedcc1
+Consumed CPU time=876.296875
+currentKey.getBytes():8080803e976b6101
+Consumed CPU time=892.484375
+currentKey.getBytes():8080803e98a8e5c1
+Consumed CPU time=908.359375
+currentKey.getBytes():8080803e98e5ea01
+Consumed CPU time=925.062500
+currentKey.getBytes():8080803e19a26ec1
+Consumed CPU time=940.937500
+currentKey.getBytes():8080803e19df7301
+Consumed CPU time=957.203125
+currentKey.getBytes():8080803e1a1cf7c1
+Consumed CPU time=973.140625
+currentKey.getBytes():8080803e1ad97c01
+Consumed CPU time=989.687500
+currentKey.getBytes():8080803e9b9780c1
+Consumed CPU time=1005.765625
+currentKey.getBytes():8080803e9b548501
+Consumed CPU time=1028.828125
+currentKey.getBytes():8080803e1c9189c1
+Consumed CPU time=1056.703125
+currentKey.getBytes():8080803e1cce0e01
+Consumed CPU time=1081.406250
+currentKey.getBytes():8080803e9d0b92c1
+Consumed CPU time=1102.484375
+currentKey.getBytes():8080803e9dc89701
+Consumed CPU time=1125.281250
+currentKey.getBytes():8080803e9e859bc1
+Consumed CPU time=1141.687500
+currentKey.getBytes():8080803e9ec22001
+Consumed CPU time=1158.218750
+currentKey.getBytes():8080803e9e7fa4c1
+Consumed CPU time=1174.390625
+currentKey.getBytes():8080803e1fbc2901
+Consumed CPU time=1191.265625
+currentKey.getBytes():8080803e1f79adc1
+Consumed CPU time=1207.015625
+currentKey.getBytes():8080803e20b63201
+Consumed CPU time=1222.921875
+currentKey.getBytes():8080803e2073b6c1
+Consumed CPU time=1238.781250
+currentKey.getBytes():8080803ea1b03b01
+Consumed CPU time=1255.203125
+currentKey.getBytes():8080803ea16dbfc1
+Consumed CPU time=1271.125000
+currentKey.getBytes():8080803ea22ac401
+Consumed CPU time=1287.125000
+currentKey.getBytes():8080803ea267c8c1
+Consumed CPU time=1302.906250
+currentKey.getBytes():8080803e23a4cd01
+Consumed CPU time=1319.437500
+currentKey.getBytes():8080803e236151c1
+Consumed CPU time=1335.203125
+currentKey.getBytes():8080803ea49ed601
+Consumed CPU time=1351.046875
+currentKey.getBytes():8080803ea45bdac1
+Consumed CPU time=1366.859375
+currentKey.getBytes():8080803e2598df01
+Consumed CPU time=1383.484375
+currentKey.getBytes():8080803e25d5e3c1
+Consumed CPU time=1399.265625
+currentKey.getBytes():8080803e26926801
+Consumed CPU time=1415.171875
+currentKey.getBytes():8080803e264fecc1
+Consumed CPU time=1430.921875
+currentKey.getBytes():8080803ea78cf101
+Consumed CPU time=1447.515625
+currentKey.getBytes():8080803ea74975c1
+Consumed CPU time=1463.312500
+currentKey.getBytes():8080803ea8867a01
+Consumed CPU time=1479.062500
+currentKey.getBytes():8080803ea843fec1
+Consumed CPU time=1494.781250
+currentKey.getBytes():8080803e29018301
+Consumed CPU time=1511.109375
+currentKey.getBytes():8080803e293e07c1
+Consumed CPU time=1527.578125
+currentKey.getBytes():8080803e29fb8c01
+Consumed CPU time=1543.250000
+currentKey.getBytes():8080803e2a3810c1
+Consumed CPU time=1558.906250
+currentKey.getBytes():8080803e2a751501
+Consumed CPU time=1575.609375
+currentKey.getBytes():8080803eab3219c1
+Consumed CPU time=1591.531250
+currentKey.getBytes():8080803eabef9e01
+Consumed CPU time=1607.406250
+currentKey.getBytes():8080803e2c2ca2c1
+Consumed CPU time=1623.203125
+currentKey.getBytes():8080803e2ce9a701
+Consumed CPU time=1639.796875
+currentKey.getBytes():8080803ead26abc1
+Consumed CPU time=1655.609375
+currentKey.getBytes():8080803eade3b001
+Consumed CPU time=1671.468750
+currentKey.getBytes():8080803eae2034c1
+Consumed CPU time=1687.328125
+currentKey.getBytes():8080803eae5db901
+Consumed CPU time=1704.171875
+currentKey.getBytes():8080803e2f1a3dc1
+Consumed CPU time=1720.031250
+currentKey.getBytes():8080803e2f57c201
+Consumed CPU time=1735.843750
+currentKey.getBytes():8080803eb09446c1
+Consumed CPU time=1751.656250
+currentKey.getBytes():8080803eb051cb01
+Consumed CPU time=1768.359375
+currentKey.getBytes():8080803e310e4fc1
+Consumed CPU time=1784.265625
+currentKey.getBytes():8080803e31cb5401
+Consumed CPU time=1799.968750
+currentKey.getBytes():8080803e320858c1
+Consumed CPU time=1815.937500
+currentKey.getBytes():8080803e32455d01
+Consumed CPU time=1832.390625
+currentKey.getBytes():8080803eb30261c1
+Consumed CPU time=1848.328125
+currentKey.getBytes():8080803eb3bfe601
+Consumed CPU time=1864.250000
+currentKey.getBytes():8080803eb37ceac1
+Consumed CPU time=1880.093750
+currentKey.getBytes():8080803e34b9ef01
+Consumed CPU time=1896.468750
+currentKey.getBytes():8080803e347673c1
+Consumed CPU time=1912.375000
+currentKey.getBytes():8080803eb5b3f801
+Consumed CPU time=1928.250000
+currentKey.getBytes():8080803eb5707cc1
+Consumed CPU time=1944.234375
+currentKey.getBytes():8080803eb6ae0101
+Consumed CPU time=1960.968750
+currentKey.getBytes():8080803eb66b85c1
+Consumed CPU time=1976.921875
+currentKey.getBytes():8080803e37a88a01
+Consumed CPU time=1992.765625
+currentKey.getBytes():8080803e37e50ec1
+Consumed CPU time=2008.562500
+currentKey.getBytes():8080803e38a21301
+Consumed CPU time=2025.109375
+currentKey.getBytes():8080803e38df97c1
+Consumed CPU time=2040.921875
+currentKey.getBytes():8080803eb91c1c01
+Consumed CPU time=2056.859375
+currentKey.getBytes():8080803eb9d920c1
+Consumed CPU time=2072.781250
+currentKey.getBytes():8080803eba162501
+Consumed CPU time=2089.531250
+currentKey.getBytes():8080803ebad329c1
+Consumed CPU time=2105.406250
+currentKey.getBytes():8080803e3b10ae01
+Consumed CPU time=2121.671875
+currentKey.getBytes():8080803e3bcd32c1
+Consumed CPU time=2137.500000
+currentKey.getBytes():8080803ebc8a3701
+Consumed CPU time=2153.859375
+currentKey.getBytes():8080803ebcc73bc1
+Consumed CPU time=2169.906250
+currentKey.getBytes():8080803e3d044001
+Consumed CPU time=2185.937500
+currentKey.getBytes():8080803e3dc1c4c1
+Consumed CPU time=2201.671875
+currentKey.getBytes():8080803e3dfe4901
+Consumed CPU time=2218.640625
+currentKey.getBytes():8080803e3e3bcdc1
+Consumed CPU time=2234.921875
+currentKey.getBytes():8080803e3ef85201
+Consumed CPU time=2250.859375
+currentKey.getBytes():8080803ebfb5d6c1
+Consumed CPU time=2266.671875
+currentKey.getBytes():8080803ebff25b01
+Consumed CPU time=2283.421875
+currentKey.getBytes():8080803e402fdfc1
+Consumed CPU time=2299.765625
+currentKey.getBytes():8080803e40ec6401
+Consumed CPU time=2315.421875
+currentKey.getBytes():8080803ec12968c1
+Consumed CPU time=2331.109375
+currentKey.getBytes():8080803ec1e66d01
+Consumed CPU time=2347.546875
+currentKey.getBytes():8080803ec223f1c1
+Consumed CPU time=2363.421875
+currentKey.getBytes():8080803ec2e07601
+Consumed CPU time=2379.187500
+currentKey.getBytes():8080803e439d7ac1
+Consumed CPU time=2395.015625
+currentKey.getBytes():8080803e43da7f01
+Consumed CPU time=2411.546875
+currentKey.getBytes():8080803ec49883c1
+Consumed CPU time=2427.343750
+currentKey.getBytes():8080803ec4d50801
+Consumed CPU time=2443.203125
+currentKey.getBytes():8080803e45928cc1
+Consumed CPU time=2458.968750
+currentKey.getBytes():8080803e454f9101
+Consumed CPU time=2475.562500
+currentKey.getBytes():8080803e468c15c1
+Consumed CPU time=2491.406250
+currentKey.getBytes():8080803e46491a01
+Consumed CPU time=2507.250000
+currentKey.getBytes():8080803ec7869ec1
+Consumed CPU time=2522.890625
+currentKey.getBytes():8080803ec7432301
+Consumed CPU time=2539.437500
+currentKey.getBytes():8080803ec880a7c1
+Consumed CPU time=2555.156250
+currentKey.getBytes():8080803ec83d2c01
+Consumed CPU time=2570.875000
+currentKey.getBytes():8080803ec87ab0c1
+Consumed CPU time=2586.734375
+currentKey.getBytes():8080803e4937b501
+Consumed CPU time=2603.296875
+currentKey.getBytes():8080803e49f4b9c1
+Consumed CPU time=2619.031250
+currentKey.getBytes():8080803e4a313e01
+Consumed CPU time=2634.734375
+currentKey.getBytes():8080803e4a6ec2c1
+Consumed CPU time=2650.437500
+currentKey.getBytes():8080803ecbabc701
+Consumed CPU time=2667.156250
+currentKey.getBytes():8080803ecb68cbc1
+Consumed CPU time=2683.031250
+currentKey.getBytes():8080803e4c25d001
+Consumed CPU time=2698.906250
+currentKey.getBytes():8080803e4c6254c1
+Consumed CPU time=2715.031250
+currentKey.getBytes():8080803ecd1fd901
+Consumed CPU time=2731.812500
+currentKey.getBytes():8080803ecddc5dc1
+Consumed CPU time=2747.687500
+currentKey.getBytes():8080803ece196201
+Consumed CPU time=2763.406250
+currentKey.getBytes():8080803eced6e6c1
+Consumed CPU time=2779.281250
+currentKey.getBytes():8080803e4f136b01
+Consumed CPU time=2795.765625
+currentKey.getBytes():8080803e4fd0efc1
+Consumed CPU time=2811.578125
+currentKey.getBytes():8080803ed00df401
+Consumed CPU time=2827.406250
+currentKey.getBytes():8080803ed04af8c1
+Consumed CPU time=2843.203125
+currentKey.getBytes():8080803e5107fd01
+Consumed CPU time=2859.718750
+currentKey.getBytes():8080803e514501c1
+Consumed CPU time=2875.625000
+currentKey.getBytes():8080803e52028601
+Consumed CPU time=2891.484375
+currentKey.getBytes():8080803e52bf8ac1
+Consumed CPU time=2907.359375
+currentKey.getBytes():8080803e527c8f01
+Consumed CPU time=2923.718750
+currentKey.getBytes():8080803ed3b913c1
+Consumed CPU time=2939.781250
+currentKey.getBytes():8080803ed3769801
+Consumed CPU time=2955.859375
+currentKey.getBytes():8080803e54b31cc1
+Consumed CPU time=2971.750000
+currentKey.getBytes():8080803e5470a101
+Consumed CPU time=2988.109375
+currentKey.getBytes():8080803ed5ad25c1
+Consumed CPU time=3004.218750
+currentKey.getBytes():8080803ed5ea2a01
+Consumed CPU time=3020.078125
+currentKey.getBytes():8080803ed6a7aec1
+Consumed CPU time=3036.000000
+currentKey.getBytes():8080803ed664b301
+Consumed CPU time=3052.500000
+currentKey.getBytes():8080803e57a137c1
+Consumed CPU time=3068.734375
+currentKey.getBytes():8080803e575ebc01
+Consumed CPU time=3087.625000
+currentKey.getBytes():8080803e589b40c1
+Consumed CPU time=3107.093750
+currentKey.getBytes():8080803e58584501
+Consumed CPU time=3123.796875
+currentKey.getBytes():8080803ed91549c1
+Consumed CPU time=3140.453125
+currentKey.getBytes():8080803ed952ce01
+Consumed CPU time=3158.375000
+currentKey.getBytes():8080803eda8f52c1
+Consumed CPU time=3176.484375
+currentKey.getBytes():8080803eda4c5701
+Consumed CPU time=3193.812500
+currentKey.getBytes():8080803e5b895bc1
+Consumed CPU time=3212.500000

